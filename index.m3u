@@ -115,76 +115,30 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 tvg-id="WNJTDT1.us",PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
-#EXTINF:-1 tvg-id="12VisionEncarnacion.mx",12 Visión Encarnación (1080p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/encoder87b/playlist.m3u8
-#EXTINF:-1 tvg-id="XHSDDTDT.mx",15tv Sabinas (XHSDD-TDT) (360p)
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="8NTV.mx",8NTV (1080p)
-https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="AlcanceTV.mx",Alcance TV (720p)
-https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 tvg-id="APlus.mx",A Más (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="AMXNoticias.mx",AMX Noticias (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaTV.mx",Antena TV (1080p)
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1 tvg-id="AsiSucedeGuanajuato.mx",Así Sucede Guanajuato (720p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx",Azteca 7 (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx",Azteca Uno (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Canal33Tijuana.mx",Canal 33 Tijuana (720p)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal37.mx",Canal 37 San Juan de los Lagos (270p)
-https://stream.oursnetworktv.com/latin/encoder80/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal44.mx",Canal 44 Chihuahua (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 tvg-id="XHIJTDT.mx",Canal 44 Ciudad Juárez (720p) [Geo-blocked]
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal47TV.mx",Canal 47 TV Puerto Escondido (480p)
-https://stream.oursnetworktv.com/latin/encoder28/playlist.m3u8
-#EXTINF:-1 tvg-id="XEJTDT.mx",Canal 50.1 Juárez (XEJ-TDT) (614p)
-https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
-#EXTINF:-1 tvg-id="XHSPRTDT1.mx",Canal Catorce (XHSPR-TDT1) (720p)
-https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldelCongreso451.mx",Canal del Congreso 45.1 (480p) [Not 24/7]
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldelCongreso452.mx",Canal del Congreso 45.2 (480p) [Not 24/7]
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso453.mx",Canal del Congreso 45.3 (1080p) [Not 24/7]
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalOchoTV.mx",Canal Ocho TV (1080p)
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx",Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
-https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Capital21.mx",Capital 21 (1080p) [Not 24/7]
-https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx",Cartoon Network México (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.mx",Cartoonito México (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="CNRTelevision.mx",CNR Televisión (1080p)
-https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="Foro.mx",Foro TV (1080p)
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx",Hipódromo de las Américas (480p) [Geo-blocked]
-http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-#EXTINF:-1 tvg-id="XHBZCTDT.mx",IERTBCS Canal 8 La Paz (1080p) [Not 24/7]
-https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx",Imagen TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
-#EXTINF:-1 tvg-id="IMRyT.mx",IMRyT Morelos TV (720p)
-https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
-#EXTINF:-1 tvg-id="InfoTV9.mx",Info TV 9 (720p)
-https://stream.oursnetworktv.com/latin/encoder25/playlist.m3u8
-#EXTINF:-1 tvg-id="JaliscoTV.mx",Jalisco TV (720p)
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx",Justicia TV (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx",Las Estrellas Latin America (720p)
@@ -195,24 +149,8 @@ https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LoboTV.mx",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 tvg-id="LosAltosTelevision.mx",Los Altos Televisión (720p)
-https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8
-#EXTINF:-1 tvg-id="MariaVision.mx",María Visión Mexico (360p) [Not 24/7]
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="Mayavision.mx",Mayavisión (720p)
-https://www.amixtv.com:8081/mayavision/index.m3u8
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx",Meganoticias MX (1080p)
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MetropoliTelevision.mx",Metrópoli Televisión (1080p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/Metropolitelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="MexiquenseTV.mx",Mexiquense TV (720p)
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="MiSURtv.mx",MiSURtv (1080p)
-https://stream8.mexiserver.com:1936/misurtv/misurtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MonteMaria.mx",Monte Maria (1080p)
-https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MVMNoticias.mx",MVM Noticias [Geo-blocked]
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="NPlus.mx",NMás (1080p)
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-id="NPlusMedia.mx",NMás Media (1080p)
@@ -221,36 +159,7 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT.mx",Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Paralelo20650AM.mx",Paralelo 20 650 AM (1080p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx",Presumiendo México (720p)
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RomanzaPlusAfrica.ke",Romanza+ Africa (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
-#EXTINF:-1 tvg-id="RTG.mx",RTG (720p)
-https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
-#EXTINF:-1 tvg-id="RTQQueretaro.mx",RTQ Querétaro (360p) [Not 24/7]
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 tvg-id="XHUNESTDT.mx",Señal España (XHUNES-TDT) (720p)
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-#EXTINF:-1 tvg-id="XHPBZCTDT1.mx",SET Televisión Canal 26.1 (720p) [Not 24/7]
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 tvg-id="XHPBZCTDT2.mx",SET Televisión Canal 26.2 (720p) [Not 24/7]
-http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:-1 tvg-id="SintesisTV.mx",Síntesis TV (480p)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
-#EXTINF:-1 tvg-id="SIPSETV81.mx",SIPSE TV 8.1 (1080p) [Not 24/7]
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:-1 tvg-id="SIPSETVCUN81.mx",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx",Sistema Michoacano de TV (1080p)
-https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-id="XHZHZTDT.mx",SIZART Canal 24 (1080p)
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 tvg-id="SQCSCanal4.mx",SQCS Canal 4 (720p)
-https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperChannel12.mx",Super Channel 12 (1080p) [Geo-blocked]
-https://servilive.com:3263/live/channel12live.m3u8
+
 
 #EXTINF:-1 tvg-id="TUDN.mx",TUDN (720p)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
@@ -263,24 +172,10 @@ https://stream.oursnetworktv.com/latin/encoder48/playlist.m3u8
 #EXTINF:-1 tvg-id="XHFNTDT1.mx",TV Azteca Noreste (Info7 Monterrey) (720p)
 https://live.info7.mx/info7/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVLibertad.mx",TV Libertad (720p)
-https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLobo.mx",TV Lobo Durango (720p)
-https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarLaPaz.mx",TV Mar La Paz (1080p)
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarLosCabos.mx",TV Mar Los Cabos (1080p)
-https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx",TV Mar Puerto Vallarta (1080p)
-https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVMigrante.mx",TV Migrante (720p)
 https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8
-#EXTINF:-1 tvg-id="XHMNLTDT.mx",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
-https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSanLuis.mx",TV San Luis (720p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/sanluistv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUJAT.mx",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVMas.mx",TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1 tvg-id="XHGVTDT.mx",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
@@ -293,8 +188,6 @@ https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ViXParejas.mx",ViX Parejas (1080p)
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="XHKGTDT.mx",XHKG TV Nayarit (1080p)
-https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 #EXTINF:-1 tvg-id="XtiNetwork.mx",Xti Network (288p)
 https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru",RU.TV (1080p) [Geo-blocked]
