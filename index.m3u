@@ -1,66 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBRTDT.ca",CBC Calgary (CBRT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-#EXTINF:-1 tvg-id="",CBC Comedy (1080p) [Geo-blocked]
-https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
-#EXTINF:-1 tvg-id="CBXTDT.ca",CBC Edmonton (CBXT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-#EXTINF:-1 tvg-id="CBWTDT.ca",CBC Manitoba (CBWT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+#EXTINF:-1 tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="Canada",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-name="ICI Télé HD" tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="Canada",ICI Télé HD Ⓖ
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+#EXTINF:-1 tvg-name="TVA" tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="Canada",TVA Ⓖ
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-id="CBMTDT.ca",CBC Montréal (CBMT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-#EXTINF:-1 tvg-id="CBATDT.ca",CBC New Brunswick (CBAT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 tvg-id="CBNTDT.ca",CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="",CBC News Explore[Geo-blocked] (720p)
 https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master.m3u8
-#EXTINF:-1 tvg-id="CFYKDT.ca",CBC North (CFYK-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 #EXTINF:-1 tvg-id="CBHTDT.ca",CBC Nova Scotia (CBHT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:-1 tvg-id="CBOTDT.ca",CBC Ottawa (CBOT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-#EXTINF:-1 tvg-id="CBCTDT.ca",CBC Prince Edward Island (CBCT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 tvg-id="CBKTDT.ca",CBC Saskatchewan (CBKT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
 #EXTINF:-1 tvg-id="CBLTDT.ca",CBC Toronto (CBLT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 tvg-name="CBC Toronto (Alternative)" tvg-logo="https://i.imgur.com/H5yEbxf.png" tvg-id="CBCTDT.ca" group-title="Canada",CBC Toronto
-https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
 #EXTINF:-1 tvg-id="CBUTDT.ca",CBC Vancouver (CBUT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 tvg-id="",CBC Comedy (1080p) [Geo-blocked]
+https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 #EXTINF:-1 tvg-id="",CityNews (720p)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-id="",CityNews Toronto (720p)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-name="TVO" tvg-logo="https://i.imgur.com/PkBPPcL.png" group-title="Canada",TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
-#EXTINF:-1 tvg-name="CHCH" tvg-logo="https://i.imgur.com/jYSXaga.png" group-title="Canada",CHCH
-http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841
-#EXTINF:-1 tvg-name="ONNtv Ontario" tvg-logo="https://i.imgur.com/zz5ST9K.png" tvg-id="ONNtv.ca" group-title="Canada",ONNtv Ontario
-https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
-#EXTINF:-1 tvg-name="Star TV" tvg-logo="https://i.imgur.com/Ap54LCC.png" group-title="Canada",Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 #EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" tvg-id="CBCNewsNetwork.ca" group-title="Canada",CBC News
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-name="CTV News" tvg-logo="https://i.imgur.com/T3oBeiX.png" tvg-id="CTVNewsChannel.ca" group-title="Canada",CTV News
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News
-https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
-#EXTINF:-1 tvg-name="Global News Montreal" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Montreal
-https://i.mjh.nz/PlutoTV/62cbfbd6ad95670007f567af-alt.m3u8
 #EXTINF:-1 tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/AbdFD0S.png" tvg-id="CPACEnglish.ca" group-title="Canada",CPAC (EN)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" group-title="Canada",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-name="ICI Télé HD Ⓖ" tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="Canada",ICI Télé HD Ⓖ
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-#EXTINF:-1 tvg-id="CBFTDT.ca",Ici Radio-Canada Télé (1080p) Alternative [Geo-blocked]
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 tvg-name="TVA Ⓖ" tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="Canada",TVA Ⓖ
-https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-name="Noovo" tvg-logo="https://i.imgur.com/BL9ziSJ.png" group-title="Canada",Noovo
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-name="Télé Québec" tvg-logo="https://i.imgur.com/8grBWK9.png" tvg-id="CIVMDT.ca" group-title="Canada",Télé Québec
