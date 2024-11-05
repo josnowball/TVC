@@ -3,12 +3,12 @@
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-name="ICI Télé HD" tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="Canada",ICI Télé HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-#EXTINF:-1 tvg-name="TVA" tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="Canada",TVA 
-https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTINF:-1 tvg-name="TVA LCN" tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="Canada",TVA 
+https://iptvcat.com/my_list/s/0a04d8d5343dcb7986e0cadbf3ecbcab.m3u8
 #EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://itac.ca/wp-content/uploads/2017/01/CBC-logo.png",CBC Montréal
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://itac.ca/wp-content/uploads/2017/01/CBC-logo.png", CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+https://iptvcat.com/my_list/s/31b5823d99facdb484a1f442c6f9341b.m3u8
 #EXTINF:-1 tvg-id="CBHTDT.ca" tvg-logo="https://itac.ca/wp-content/uploads/2017/01/CBC-logo.png",CBC Nova Scotia
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 #EXTINF:-1 tvg-id="CBLTDT.ca" tvg-logo="https://itac.ca/wp-content/uploads/2017/01/CBC-logo.png",CBC Toronto
@@ -29,6 +29,8 @@ https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/AbdFD0S.png" tvg-id="CPACEnglish.ca" group-title="Canada",CPAC (EN)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-name="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/884px-Logo_of_C-SPAN.svg.png?20110924111904" group-title="USA",C-SPAN
+https://iptvcat.com/my_list/s/f1b50751f3655dac4603dfba33b19694.m3u8
 #EXTINF:-1 tvg-name="Noovo" tvg-logo="https://i.imgur.com/BL9ziSJ.png" group-title="Canada",Noovo
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-name="Télé Québec" tvg-logo="https://i.imgur.com/8grBWK9.png" tvg-id="CIVMDT.ca" group-title="Canada",Télé Québec
