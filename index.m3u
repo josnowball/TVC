@@ -67,6 +67,8 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us",CNN USA (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.sd",CNN SD
+https://iptvcat.com/my_list/s/df2e2ba5f2a831991ee91470a06158ef.m3u8
 #EXTINF:-1 tvg-id="cnn.intl",CNN International (576p)
 https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8
 #EXTINF:-1 tvg-id="WPTZ.us",WPTZ News Plattsburgh NY
